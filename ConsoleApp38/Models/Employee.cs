@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp38.Models
 {
-    internal class Employee
+    public class Employee
     {
         public static Employee employee;
     
